@@ -14,3 +14,11 @@ C:\Users\dustin\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.p
 C:\Users\dustin\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.dll
 C:\Users\dustin\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.xml
 C:\Users\dustin\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache

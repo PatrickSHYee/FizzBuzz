@@ -14,7 +14,25 @@ namespace FizzBuzz
         }
         public static string FizzBuzz(int number)
         {
-            return "";
+            string BuzzOrNot = "";
+
+            if (number % 3 == 0)
+            {
+                BuzzOrNot = "Buzz";
+                if (number % 5 == 0)
+                {
+                    BuzzOrNot = "FizzBuzz";
+                }
+            }
+            else if (number % 5 == 0)
+            {
+                BuzzOrNot = "Fizz";
+            }
+            else
+            {
+                BuzzOrNot = number.ToString();
+            }
+            return BuzzOrNot;
         }
     }
 }
